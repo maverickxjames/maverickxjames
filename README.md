@@ -7,7 +7,7 @@
 - 💬 Ask me about **Laravel, React, Node.js, Express, PHP, Game Logic, APIs, UPI Integration**  
 - ⚡ Fun fact: I love combining **logic, business, and design** to solve real-world problems  
 - 🧠 Working on stock market apps, gaming APIs, and Vedic astrology tools  
-- 🌐 Visit: **[khelobuddy.in](https://khelobuddy.in)**
+- 🌐 Visit: **[maverickxjames.me](https://maverickxjames.me)**
 
 ---
 
